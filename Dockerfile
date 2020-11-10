@@ -5,7 +5,7 @@ ENV TZ=Asia/Shanghai
 
 WORKDIR /app
 
-RUN curl -L0 https://github.com/halo-dev/halo/releases/download/v1.4.2/halo-1.4.2.jar
+RUN curl -LO https://github.com/halo-dev/halo/releases/download/v1.4.2/halo-1.4.2.jar
 
 EXPOSE $PORT
 
