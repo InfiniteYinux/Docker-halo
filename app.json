@@ -1,8 +1,8 @@
 {
-	"name": "YINUXY"
-	"description": "YINUXY"
-	"keywords": ["YINUXY"]
-	"website": "https://blog.yinuxy.com"
-	"repository": "https://github.com/InfiniteYinux/Docker-halo"
+	"name": "YINUXY",
+	"description": "YINUXY",
+	"keywords": ["YINUXY"],
+	"website": "https://blog.yinuxy.com",
+	"repository": "https://github.com/InfiniteYinux/Docker-halo",
 	"stack": "container"
 }
